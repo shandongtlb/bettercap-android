@@ -1,0 +1,9 @@
+dist/
+out/
+*.tar.gz
+*.zip
+*.zst
+*.raw
+*.stripped
+__pycache__/
+*.pyc

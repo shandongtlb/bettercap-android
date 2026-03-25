@@ -1,0 +1,177 @@
+Android NDK: APP_PLATFORM not set. Defaulting to minimum supported version android-21.    
+/root/research/android-libusb/libusb/android/jni/libusb.mk:55: Building to legacy library name libusb1.0, which differs from pkg-config.
+/root/research/android-libusb/libusb/android/jni/libusb.mk:56: Use ndk-build USE_PC_NAME=1 to change the module name to the compatible usb-1.0.
+/root/research/android-libusb/libusb/android/jni/libusb.mk:57: USE_PC_NAME=1 may be the default in the future.
+/root/research/android-libusb/libusb/android/jni/libusb.mk:55: Building to legacy library name libusb1.0, which differs from pkg-config.
+/root/research/android-libusb/libusb/android/jni/libusb.mk:56: Use ndk-build USE_PC_NAME=1 to change the module name to the compatible usb-1.0.
+/root/research/android-libusb/libusb/android/jni/libusb.mk:57: USE_PC_NAME=1 may be the default in the future.
+/root/research/android-libusb/libusb/android/jni/libusb.mk:55: Building to legacy library name libusb1.0, which differs from pkg-config.
+/root/research/android-libusb/libusb/android/jni/libusb.mk:56: Use ndk-build USE_PC_NAME=1 to change the module name to the compatible usb-1.0.
+/root/research/android-libusb/libusb/android/jni/libusb.mk:57: USE_PC_NAME=1 may be the default in the future.
+/root/research/android-libusb/libusb/android/jni/libusb.mk:55: Building to legacy library name libusb1.0, which differs from pkg-config.
+/root/research/android-libusb/libusb/android/jni/libusb.mk:56: Use ndk-build USE_PC_NAME=1 to change the module name to the compatible usb-1.0.
+/root/research/android-libusb/libusb/android/jni/libusb.mk:57: USE_PC_NAME=1 may be the default in the future.
+[arm64-v8a] Compile        : usb1.0 <= strerror.c
+[arm64-v8a] Compile        : usb1.0 <= sync.c
+[arm64-v8a] Compile        : usb1.0 <= hotplug.c
+[arm64-v8a] Compile        : usb1.0 <= events_posix.c
+[arm64-v8a] Compile        : usb1.0 <= threads_posix.c
+[arm64-v8a] Compile        : dpfp <= dpfp.c
+[arm64-v8a] Compile        : usb1.0 <= linux_netlink.c
+[arm64-v8a] Compile        : dpfp_threaded <= dpfp.c
+[arm64-v8a] Compile        : fxload <= fxload.c
+[arm64-v8a] Compile        : usb1.0 <= core.c
+[arm64-v8a] Compile        : hotplugtest <= hotplugtest.c
+[arm64-v8a] Compile        : fxload <= ezusb.c
+[arm64-v8a] Compile        : usb1.0 <= io.c
+[arm64-v8a] Compile        : listdevs <= listdevs.c
+[arm64-v8a] Compile        : stress <= stress.c
+[arm64-v8a] Compile        : sam3u_benchmark <= sam3u_benchmark.c
+[arm64-v8a] Compile        : stress <= testlib.c
+[arm64-v8a] Compile        : usb1.0 <= descriptor.c
+[arm64-v8a] Compile        : unrooted_android <= unrooted_android.c
+[x86_64] Compile        : dpfp <= dpfp.c
+[x86_64] Compile        : usb1.0 <= hotplug.c
+[x86_64] Compile        : usb1.0 <= sync.c
+[x86_64] Compile        : usb1.0 <= strerror.c
+[x86_64] Compile        : usb1.0 <= threads_posix.c
+[x86_64] Compile        : usb1.0 <= events_posix.c
+[arm64-v8a] Compile        : xusb <= xusb.c
+[x86_64] Compile        : usb1.0 <= io.c
+[arm64-v8a] Compile        : usb1.0 <= linux_usbfs.c
+[x86_64] Compile        : usb1.0 <= core.c
+[x86_64] Compile        : usb1.0 <= descriptor.c
+[x86_64] Compile        : usb1.0 <= linux_netlink.c
+[x86_64] Compile        : hotplugtest <= hotplugtest.c
+[x86_64] Compile        : listdevs <= listdevs.c
+[x86_64] Compile        : dpfp_threaded <= dpfp.c
+[x86_64] Compile        : sam3u_benchmark <= sam3u_benchmark.c
+[x86_64] Compile        : fxload <= fxload.c
+[x86_64] Compile        : stress <= stress.c
+[x86_64] Compile        : stress <= testlib.c
+[x86_64] Compile        : fxload <= ezusb.c
+[x86_64] Compile        : unrooted_android <= unrooted_android.c
+[armeabi-v7a] Compile thumb  : dpfp <= dpfp.c
+[armeabi-v7a] Compile thumb  : usb1.0 <= hotplug.c
+[armeabi-v7a] Compile thumb  : usb1.0 <= sync.c
+[armeabi-v7a] Compile thumb  : usb1.0 <= strerror.c
+[armeabi-v7a] Compile thumb  : usb1.0 <= threads_posix.c
+[armeabi-v7a] Compile thumb  : usb1.0 <= events_posix.c
+[armeabi-v7a] Compile thumb  : usb1.0 <= core.c
+[armeabi-v7a] Compile thumb  : usb1.0 <= io.c
+[x86_64] Compile        : xusb <= xusb.c
+[armeabi-v7a] Compile thumb  : usb1.0 <= descriptor.c
+[x86_64] Compile        : usb1.0 <= linux_usbfs.c
+[armeabi-v7a] Compile thumb  : usb1.0 <= linux_netlink.c
+[armeabi-v7a] Compile thumb  : hotplugtest <= hotplugtest.c
+[armeabi-v7a] Compile thumb  : fxload <= fxload.c
+[armeabi-v7a] Compile thumb  : listdevs <= listdevs.c
+[armeabi-v7a] Compile thumb  : dpfp_threaded <= dpfp.c
+[armeabi-v7a] Compile thumb  : stress <= stress.c
+[armeabi-v7a] Compile thumb  : sam3u_benchmark <= sam3u_benchmark.c
+[armeabi-v7a] Compile thumb  : stress <= testlib.c
+[armeabi-v7a] Compile thumb  : fxload <= ezusb.c
+[armeabi-v7a] Compile thumb  : unrooted_android <= unrooted_android.c
+[x86] Compile        : dpfp <= dpfp.c
+[x86] Compile        : usb1.0 <= hotplug.c
+[x86] Compile        : usb1.0 <= strerror.c
+[x86] Compile        : usb1.0 <= sync.c
+[x86] Compile        : usb1.0 <= threads_posix.c
+[armeabi-v7a] Compile thumb  : usb1.0 <= linux_usbfs.c
+[x86] Compile        : usb1.0 <= events_posix.c
+[armeabi-v7a] Compile thumb  : xusb <= xusb.c
+[x86] Compile        : usb1.0 <= core.c
+[x86] Compile        : usb1.0 <= descriptor.c
+[x86] Compile        : usb1.0 <= io.c
+[x86] Compile        : usb1.0 <= linux_netlink.c
+[x86] Compile        : hotplugtest <= hotplugtest.c
+[x86] Compile        : listdevs <= listdevs.c
+[x86] Compile        : fxload <= fxload.c
+[x86] Compile        : sam3u_benchmark <= sam3u_benchmark.c
+[x86] Compile        : dpfp_threaded <= dpfp.c
+[x86] Compile        : fxload <= ezusb.c
+[x86] Compile        : stress <= testlib.c
+[x86] Compile        : stress <= stress.c
+[arm64-v8a] SharedLibrary  : libusb1.0.so
+[x86] Compile        : unrooted_android <= unrooted_android.c
+[armeabi-v7a] SharedLibrary  : libusb1.0.so
+[x86_64] SharedLibrary  : libusb1.0.so
+[arm64-v8a] Executable     : dpfp_threaded
+[arm64-v8a] Executable     : fxload
+[arm64-v8a] Executable     : dpfp
+[arm64-v8a] Install        : libusb1.0.so => libs/arm64-v8a/libusb1.0.so
+[arm64-v8a] Executable     : hotplugtest
+[arm64-v8a] Executable     : stress
+[arm64-v8a] Executable     : listdevs
+[arm64-v8a] SharedLibrary  : libunrooted_android.so
+[arm64-v8a] Executable     : sam3u_benchmark
+[arm64-v8a] Executable     : xusb
+[x86_64] Executable     : dpfp
+[x86_64] Executable     : fxload
+[x86_64] Executable     : hotplugtest
+[x86_64] Executable     : listdevs
+[x86_64] Install        : libusb1.0.so => libs/x86_64/libusb1.0.so
+[x86_64] Executable     : stress
+[x86_64] Executable     : dpfp_threaded
+[x86] Compile        : xusb <= xusb.c
+[x86_64] Executable     : sam3u_benchmark
+[armeabi-v7a] Executable     : dpfp
+[x86] Compile        : usb1.0 <= linux_usbfs.c
+[x86_64] Executable     : xusb
+[armeabi-v7a] Executable     : fxload
+[armeabi-v7a] Executable     : dpfp_threaded
+[armeabi-v7a] Install        : libusb1.0.so => libs/armeabi-v7a/libusb1.0.so
+[x86_64] SharedLibrary  : libunrooted_android.so
+[armeabi-v7a] Executable     : listdevs
+[arm64-v8a] Install        : dpfp => libs/arm64-v8a/dpfp
+[armeabi-v7a] Executable     : hotplugtest
+[arm64-v8a] Install        : dpfp_threaded => libs/arm64-v8a/dpfp_threaded
+[arm64-v8a] Install        : fxload => libs/arm64-v8a/fxload
+[armeabi-v7a] Executable     : stress
+[arm64-v8a] Install        : hotplugtest => libs/arm64-v8a/hotplugtest
+[arm64-v8a] Install        : listdevs => libs/arm64-v8a/listdevs
+[armeabi-v7a] SharedLibrary  : libunrooted_android.so
+[armeabi-v7a] Executable     : sam3u_benchmark
+[arm64-v8a] Install        : sam3u_benchmark => libs/arm64-v8a/sam3u_benchmark
+[arm64-v8a] Install        : stress => libs/arm64-v8a/stress
+[arm64-v8a] Install        : libunrooted_android.so => libs/arm64-v8a/libunrooted_android.so
+[arm64-v8a] Install        : xusb => libs/arm64-v8a/xusb
+[x86_64] Install        : dpfp => libs/x86_64/dpfp
+[x86_64] Install        : dpfp_threaded => libs/x86_64/dpfp_threaded
+[armeabi-v7a] Executable     : xusb
+[x86_64] Install        : fxload => libs/x86_64/fxload
+[x86_64] Install        : hotplugtest => libs/x86_64/hotplugtest
+[x86_64] Install        : listdevs => libs/x86_64/listdevs
+[x86_64] Install        : sam3u_benchmark => libs/x86_64/sam3u_benchmark
+[x86_64] Install        : stress => libs/x86_64/stress
+[x86_64] Install        : libunrooted_android.so => libs/x86_64/libunrooted_android.so
+[x86] SharedLibrary  : libusb1.0.so
+[x86_64] Install        : xusb => libs/x86_64/xusb
+[armeabi-v7a] Install        : dpfp => libs/armeabi-v7a/dpfp
+[armeabi-v7a] Install        : dpfp_threaded => libs/armeabi-v7a/dpfp_threaded
+[armeabi-v7a] Install        : fxload => libs/armeabi-v7a/fxload
+[armeabi-v7a] Install        : hotplugtest => libs/armeabi-v7a/hotplugtest
+[armeabi-v7a] Install        : listdevs => libs/armeabi-v7a/listdevs
+[armeabi-v7a] Install        : sam3u_benchmark => libs/armeabi-v7a/sam3u_benchmark
+[armeabi-v7a] Install        : stress => libs/armeabi-v7a/stress
+[armeabi-v7a] Install        : libunrooted_android.so => libs/armeabi-v7a/libunrooted_android.so
+[armeabi-v7a] Install        : xusb => libs/armeabi-v7a/xusb
+[x86] Executable     : dpfp
+[x86] Install        : libusb1.0.so => libs/x86/libusb1.0.so
+[x86] Executable     : fxload
+[x86] Executable     : listdevs
+[x86] Install        : dpfp => libs/x86/dpfp
+[x86] Executable     : sam3u_benchmark
+[x86] Install        : fxload => libs/x86/fxload
+[x86] Executable     : dpfp_threaded
+[x86] Install        : listdevs => libs/x86/listdevs
+[x86] Install        : sam3u_benchmark => libs/x86/sam3u_benchmark
+[x86] Install        : dpfp_threaded => libs/x86/dpfp_threaded
+[x86] Executable     : stress
+[x86] Executable     : hotplugtest
+[x86] SharedLibrary  : libunrooted_android.so
+[x86] Install        : stress => libs/x86/stress
+[x86] Install        : hotplugtest => libs/x86/hotplugtest
+[x86] Install        : libunrooted_android.so => libs/x86/libunrooted_android.so
+[x86] Executable     : xusb
+[x86] Install        : xusb => libs/x86/xusb
